@@ -1,0 +1,4 @@
+dbt_insights/*
+docker-composer.yml
+tduriez-interview-83a4159d10c7.json
+**/__pycache__/**
